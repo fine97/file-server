@@ -1,1 +1,2 @@
-# pictures
+# Github 图床
+搭建参考博客：https://juejin.cn/post/7484470326082355235?searchId=202508011440341753A89A0E8D25A26CBF
